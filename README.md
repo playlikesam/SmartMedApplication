@@ -6,35 +6,35 @@ This project is designed to process various medical reports, including eye presc
 
 ##### Frontend: React Native with Expo
 
-## Backend: FastAPI
+##### Backend: FastAPI
 
-## OCR: Tesseract OCR for text extraction
+##### OCR: Tesseract OCR for text extraction
 
-## AI/ML (Future Scope): TensorFlow/PyTorch for image analysis
+##### AI/ML (Future Scope): TensorFlow/PyTorch for image analysis
 
-## Database: MongoDB/PostgreSQL
+##### Database: MongoDB/PostgreSQL
 
-## Hosting: AWS/GCP
+##### Hosting: AWS/GCP
 
-# Get Started 🏁
+### Get Started 🏁
 
-## Install dependencies : 
+##### Install dependencies : 
 
 ```npm install```
 
-## Start the app
+##### Start the app
 
 ```npx expo start```
 
-## Run the FastAPI backend
+##### Run the FastAPI backend
 
 ```uvicorn main:app --reload```
 
-## Test API using Postman or Curl
+##### Test API using Postman or Curl
 
 ```curl -X POST "http://127.0.0.1:8000/process" -F "file=@path_to_file.jpg"```
 
-# Features 🌟
+### Features 🌟
 
 1. Extracts text from medical reports (eye prescriptions, pathology reports, etc.)
 
@@ -44,7 +44,7 @@ This project is designed to process various medical reports, including eye presc
 
 4. Easy-to-use API for document processing
 
-# Future Enhancements 🚀
+### Future Enhancements 🚀
 
 1. X-ray Interpretation: AI-powered analysis of X-ray images
 
@@ -54,7 +54,7 @@ This project is designed to process various medical reports, including eye presc
 
 4. Cloud Integration: Store and manage medical records securely
 
-# Learn More 📖
+### Learn More 📖
 
 Expo Documentation
 
