@@ -4,7 +4,7 @@ This project is designed to process various medical reports, including eye presc
 
 # Tech Stack 🛠️
 
-#### Frontend: React Native with Expo
+##### Frontend: React Native with Expo
 
 ## Backend: FastAPI
 
