@@ -2,7 +2,7 @@
 
 This project is designed to process various medical reports, including eye prescriptions, blood tests, and general health reports. In the future, we plan to introduce X-ray reading functionality using advanced AI/ML techniques.
 
-# Tech Stack 🛠️
+## Tech Stack 🛠️
 
 ##### Frontend: React Native with Expo
 
