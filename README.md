@@ -3,9 +3,8 @@
 This project is designed to process various medical reports, including eye prescriptions, blood tests, and general health reports. In the future, we plan to introduce X-ray reading functionality using advanced AI/ML techniques.
 
 ## Project Snapshots
-<p float="left">
+<p float="center">
   <img src="img1.png" width="45%" alt="" />
-  <img src="img2.png" width="45%" alt="" />
 </p>
 
 ## Tech Stack 🛠️
